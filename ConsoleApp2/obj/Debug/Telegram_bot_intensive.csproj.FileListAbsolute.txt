@@ -1,0 +1,10 @@
+C:\Users\klyushin_a.1OBL\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\klyushin_a.1OBL\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\klyushin_a.1OBL\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\klyushin_a.1OBL\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\klyushin_a.1OBL\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\klyushin_a.1OBL\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\Telegram_bot_intensive.csprojResolveAssemblyReference.cache
+C:\Users\klyushin_a.1OBL\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\Telegram_bot_intensive.csproj.CoreCompileInputs.cache
+C:\Users\klyushin_a.1OBL\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\Telegram_bot_intensive.csproj.CopyComplete
+C:\Users\klyushin_a.1OBL\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\klyushin_a.1OBL\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
