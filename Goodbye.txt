@@ -1,2 +1,2 @@
-print("Всем пока!!!");
-print("Goodbye world!!!")
+print("Всем пока!!!;");
+print("Goodbye world!!!;");
