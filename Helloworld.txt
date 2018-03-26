@@ -1,3 +1,5 @@
-print("Hello!")
-print("Hello my dear friend!")
-ptint(Hello mam!)
+
+print("Hello!;")
+print("Hello my dear friend!;")
+ptint("Hello mam!;")
+
